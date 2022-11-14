@@ -9,4 +9,4 @@ This is a simple web UI using API that allows you to search for images using ima
 
 The results are displayed.
 
-![Image](Images/WebUI_results.png)
+![Image](Images/webUI_results.png)
